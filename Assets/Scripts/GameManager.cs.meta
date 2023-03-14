@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fafe4c5fe8119934986e2636293e1b62
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sound: {instanceID: 0}
+  - crash: {fileID: 8300000, guid: e7f1ac463371fbc4b9c1459f8bcf45eb, type: 3}
+  - point: {fileID: 8300000, guid: fd5b6a0c4f1747b4b98d171ea93db5d2, type: 3}
+  - text: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
